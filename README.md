@@ -2,7 +2,7 @@
 I’m Arpit Chauhan, a Mathematics graduate currently completing my MSc in Data Science and Artificial Intelligence at Mithibai College. I have a strong foundation in statistics, machine learning, and data-driven problem solving. My academic background is complemented by hands-on experience in Python, data analysis, machine learning model development, and AI-based project implementation. I’m passionate about turning data into actionable insights and continuously learning new technologies to solve real-world problems. I am currently seeking entry-level roles where I can apply my skills and grow professionally while contributing to innovative data-driven solutions.
 
 
-## 🌐 Socials:
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpittchauhann/) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@DataScience-u4l) 
